@@ -16,6 +16,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="64">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="64">
     <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png](https://avatars.githubusercontent.com/u/1609975?s=280&v=4)" alt="TypeScript Logo" width="64">
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="TypeScript Logo" width="64">
   </div>
 </div>
 
