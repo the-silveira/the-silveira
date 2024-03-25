@@ -2,13 +2,18 @@
 
 ## About Me
 
-Hello there! I'm [Your Name], a [Your Profession or Interests]. I'm passionate about [Something You're Passionate About]. Currently, I'm [What You're Currently Doing].
+Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneering.
 
 ## Skills
 
 - Programming Languages: [List of Programming Languages]
 - Technologies: [List of Technologies]
-- Tools: [List of Tools]
+- Tools: - **IDEs/Editors:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++
+- **Version Control:** Git, GitHub, Bitbucket
+- **Mobile Development:** Flutter
+- **Databases:** MySQL (SQL Workbench)
+- **Design Tools:** GIMP
+- **API Testing:** Postman
 
 ## Projects
 
