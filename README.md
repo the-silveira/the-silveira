@@ -90,14 +90,4 @@ Here are some of the projects I've worked on:
   - **API Testing:** Postman
 
 
-
-## Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](Link)
-- Twitter: [Your Twitter Profile](Link)
-- Email: [Your Email Address](mailto:youremail@example.com)
-
-
-
-
 Thanks for visiting my profile! 😊
