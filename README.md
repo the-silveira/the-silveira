@@ -10,7 +10,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 - ###Technologies:
   -
   
-- ###Tools:
+- **Tools**:
   - **IDEs/Editors:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++
   - **Version Control:** Git, GitHub, Bitbucket
   - **Databases:** MySQL (SQL Workbench)
