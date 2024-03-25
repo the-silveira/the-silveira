@@ -14,8 +14,8 @@ I'm always open to new experiences and opportunities for growth, both personally
 - Twitter: [Your Twitter Profile](Link)
 -->
 
-- Email: guilhermesilveria2004@gmail.com(mailto:guilhermesilveria2004@gmail.com)
-- Instagram: @gui_2.70(https://www.instagram.com/gui_2.70/)
+- Email: [guilhermesilveria2004@gmail.com](mailto:guilhermesilveria2004@gmail.com)
+- Instagram: [@gui_2.70](https://www.instagram.com/gui_2.70/)
 
 
 
