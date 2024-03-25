@@ -19,7 +19,7 @@ I'm always open to new experiences and opportunities for growth, both personally
 
 ## Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=merko)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Silveira-Guilherme&theme=radical)
 
 
