@@ -43,26 +43,19 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
   </div>
 </div>
 
-
-
-
-
-- **Java**: A versatile language used for building enterprise-level applications, Android mobile development, and backend systems.
 - **C#**: Used primarily for building Windows applications, games with Unity, and enterprise software with .NET framework.
+- **Java**: A versatile language used for building enterprise-level applications, Android mobile development, and backend systems.
+
 
 ### Frameworks and Tools
 
 - **Node.js**: JavaScript runtime environment for server-side programming.
-- **React.js, Angular, Vue.js**: Frontend frameworks for building dynamic user interfaces.
-- **Django, Flask**: Python web frameworks for rapid development and clean, pragmatic design.
 - **Flutter**: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **.NET Framework**: A software framework for building Windows applications and web services.
- 
-  
-- **Technologies**:
-  - **IDEs/Editors:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++
-  
-- **Tools**:
+- **Angular**: A platform for building web applications using TypeScript and HTML.
+
+
+### Tools
   - **IDEs/Editors:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++
   - **Version Control:** Git, GitHub, Bitbucket
   - **Databases:** MySQL (SQL Workbench)
