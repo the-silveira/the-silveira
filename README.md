@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋
 
 ## About Me
 
