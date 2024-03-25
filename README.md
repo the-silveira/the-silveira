@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 1. The ISEP Formula Student Team Website - The Website for the ISEP Formula Student Team powered by Angular Framework
 2. Doodo - A calendar based task manegement app powered by Flutter.
-3. Dynado - A construction project manegement app powered byflutter.
+3. Dynado - A construction project manegement app powered by Flutter.
 
 
 ## Skills
