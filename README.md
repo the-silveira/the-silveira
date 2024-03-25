@@ -22,6 +22,14 @@ I'm always open to new experiences and opportunities for growth, both personally
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=onedark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Silveira-Guilherme&theme=onedark)
 
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. The ISEP Formula Student Team Website - The Website for the ISEP Formula Student Team.
+2. Doodo - A calendar based task manegement app powered by flutter.
+3. Dynado - A construction project manegement app powered by flutter.
+
 
 ## Skills
 ### Programming Languages
@@ -81,15 +89,7 @@ I'm always open to new experiences and opportunities for growth, both personally
   - **Design Tools:** GIMP
   - **API Testing:** Postman
 
-## Projects
 
-Here are some of the projects I've worked on:
-
-1. [Project Name](Link to Project) - Description of the project.
-2. [Project Name](Link to Project) - Description of the project.
-3. [Project Name](Link to Project) - Description of the project.
-
-Feel free to explore more on my GitHub repositories!
 
 ## Get in Touch
 
