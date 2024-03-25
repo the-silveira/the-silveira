@@ -17,6 +17,9 @@ I'm always open to new experiences and opportunities for growth, both personally
 - Email: [guilhermesilveria2004@gmail.com](mailto:guilhermesilveria2004@gmail.com)
 - Instagram: [@gui_2.70](https://www.instagram.com/gui_2.70/)
 
+## Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=radical)
 
 
 
@@ -94,21 +97,7 @@ Feel free to explore more on my GitHub repositories!
 - Twitter: [Your Twitter Profile](Link)
 - Email: [Your Email Address](mailto:youremail@example.com)
 
-## Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=radical)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](Link to Blog Post) - Description of the post.
-- [Title of Blog Post](Link to Blog Post) - Description of the post.
-<!-- BLOG-POST-LIST:END -->
-
-## Support
-
-If you like what I do, consider buying me a coffee!
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow)](Link to Donation Page)
 
 Thanks for visiting my profile! 😊
