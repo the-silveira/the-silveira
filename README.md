@@ -39,7 +39,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <div style="text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" alt="C# Logo" width="85">
-    <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/96px-Java_programming_language_logo.svg.png" alt="Java Logo" width="64">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/96px-Java_programming_language_logo.svg.png" alt="Java Logo" width="55">
   </div>
 </div>
 
