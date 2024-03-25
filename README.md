@@ -7,13 +7,17 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 ## Skills
 ### Programming Languages
 #### Web Development
-
+- **HTML**: Used for creating the structure of web pages.
+  ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg.png)
+  
+- **CSS**: Used for styling and formatting web pages.
+  ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/128px-CSS3_logo_and_wordmark.svg.png)
+  
 - **JavaScript**: Used for frontend and backend development, as well as for building interactive web applications.
-- **HTML/CSS**: Fundamental languages for building web pages and styling them.
-- **Python**: Known for its simplicity and readability, used for web development, data analysis, machine learning, and automation.
-- **PHP**: A server-side scripting language used for web development and building dynamic websites.
-- **Dart**: Used for building mobile applications with Flutter framework.
+  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg.png)
+  
 - **TypeScript**: A superset of JavaScript, adding static typing and other features for large-scale JavaScript applications.
+  ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png)
 
 ### Systems Programming
 
