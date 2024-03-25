@@ -28,7 +28,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 #### Systems Programming
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <div style="text-align: center;">
-    <img src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet.png" alt="C Logo" width="64">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/64px-The_C_Programming_Language_logo.svg.png" alt="C# Logo" width="64">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="64">
   </div>
 </div>
@@ -38,7 +38,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 #### Application Development
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/64px-The_C_Programming_Language_logo.svg.png" alt="C# Logo" width="64">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/64px-C_Sharp_logo.svg.png" alt="C# Logo" width="64">
     <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/96px-Java_programming_language_logo.svg.png" alt="Java Logo" width="64">
   </div>
 </div>
