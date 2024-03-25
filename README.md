@@ -6,8 +6,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 
 ## Skills
 ### Programming Languages
-#### Programming Languages
-### Web Development
+#### Web Development
 
 - **JavaScript**: Used for frontend and backend development, as well as for building interactive web applications.
 - **HTML/CSS**: Fundamental languages for building web pages and styling them.
