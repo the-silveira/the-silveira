@@ -23,6 +23,15 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 - **PHP**: A server-side scripting language used for web development and building dynamic websites.
 - **TypeScript**: A superset of JavaScript, adding static typing and other features for large-scale JavaScript applications.
 
+#### Systems Programming
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/64px-The_C_Programming_Language_logo.svg.png" alt="C Logo" width="64">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="64">
+  </div>
+</div>
+
+- **C/C++**: Lower-level languages used for system programming, game development, and performance-critical applications.
 
 
 
