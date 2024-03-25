@@ -16,6 +16,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="64">
   </div>
 </div>
+
 - **HTML/CSS**: Fundamental languages for building web pages and styling them.
 - **JavaScript**: Used for frontend and backend development, as well as for building interactive web applications.
 - **PHP**: A server-side scripting language used for web development and building dynamic websites.
