@@ -15,8 +15,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/64px-PHP-logo.svg.png" alt="PHP Logo" width="64">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="64">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="64">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png](https://avatars.githubusercontent.com/u/1609975?s=280&v=4)" alt="TypeScript Logo" width="64">
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="TypeScript Logo" width="64">
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart Logo" width="64">
   </div>
 </div>
 
@@ -24,6 +23,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 - **JavaScript**: Used for frontend and backend development, as well as for building interactive web applications.
 - **PHP**: A server-side scripting language used for web development and building dynamic websites.
 - **TypeScript**: A superset of JavaScript, adding static typing and other features for large-scale JavaScript applications.
+- **Dart**: Used for building web apps with Flutter framework.
 
 #### Systems Programming
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
@@ -35,15 +35,12 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 
 - **C/C++**: Lower-level languages used for system programming, game development, and performance-critical applications.
 
+#### Application Development
 
 
 
 
-### Systems Programming
 
-- **C/C++**: Lower-level languages used for system programming, game development, and performance-critical applications.
-
-### Application Development
 
 - **Java**: A versatile language used for building enterprise-level applications, Android mobile development, and backend systems.
 - **C#**: Used primarily for building Windows applications, games with Unity, and enterprise software with .NET framework.
@@ -85,7 +82,7 @@ Feel free to explore more on my GitHub repositories!
 
 ## Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=radical)
 
 ## Latest Blog Posts
 
