@@ -7,11 +7,12 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 ## Skills
 
 - Programming Languages: [List of Programming Languages]
-- Technologies: [List of Technologies]
-- Tools:
+- ###Technologies:
+  -
+  
+- ###Tools:
   - **IDEs/Editors:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++
   - **Version Control:** Git, GitHub, Bitbucket
-  - **Mobile Development:** Flutter
   - **Databases:** MySQL (SQL Workbench)
   - **Design Tools:** GIMP
   - **API Testing:** Postman
