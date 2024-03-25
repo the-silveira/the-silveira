@@ -8,17 +8,16 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 ### Programming Languages
 #### Web Development
 - **HTML**: Used for creating the structure of web pages.
-  ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="64">
   
 - **CSS**: Used for styling and formatting web pages.
-  ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/128px-CSS3_logo_and_wordmark.svg.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="64">
   
 - **JavaScript**: Used for frontend and backend development, as well as for building interactive web applications.
-  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="64">
   
 - **TypeScript**: A superset of JavaScript, adding static typing and other features for large-scale JavaScript applications.
-  ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png)
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="64">
 ### Systems Programming
 
 - **C/C++**: Lower-level languages used for system programming, game development, and performance-critical applications.
