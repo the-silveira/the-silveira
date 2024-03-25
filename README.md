@@ -11,7 +11,7 @@ Hello there! I'm Guilherme Silveira. I work on IT, and study computer engeneerin
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <div style="text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="64">
-    <p>HTML</p>
+ - **HTML**: Used for creating the structure of web pages.
   </div>
   <div style="text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="64">
