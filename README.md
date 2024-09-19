@@ -15,7 +15,7 @@ I'm always open to new experiences and opportunities for growth, both personally
 -->
 
 - Email: [guilhermesilveria2004@gmail.com](mailto:guilhermesilveira2004@gmail.com)
-- Instagram: [@gui_2.70](https://www.instagram.com/gui_2.70/)
+- Instagram: [@the_silveira](https://www.instagram.com/the_silveira/)
 
 ## Stats
 
