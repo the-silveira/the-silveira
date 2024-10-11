@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 
 
 
-<img src="https://img.shields.io/static/v1?message=HTML&color=orange?style=plastic&logo=html5" />
+<img src="https://img.shields.io/static/v1?message=HTML&color=violet?style=flat&logo=html5" />
 
 
 
