@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm)](https://github.com/Jurredr/github-widgetbox)
 
 
 
