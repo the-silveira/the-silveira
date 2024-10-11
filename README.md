@@ -37,7 +37,8 @@ Here are some of the projects I've worked on:
 
 
 
-<img src="https://img.shields.io/static/v1?message=HTML&static=HTML&color=violet&style=flat&logo=html5" alt="HTML badge" />
+<img src="https://img.shields.io/static/v1?message=Hello+World&color=violet&style=flat&logo=html5" alt="Hello World badge" />
+
 
 
 
