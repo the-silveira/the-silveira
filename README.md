@@ -33,6 +33,11 @@ Here are some of the projects I've worked on:
 
 ## Skills
 ### Programming Languages
+
+
+
+
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 #### Web Development
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
