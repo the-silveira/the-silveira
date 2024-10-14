@@ -1,5 +1,11 @@
 <!-- # Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋 !-->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits"/>
+</p>
+
+
 
 <!--## About Me
 
