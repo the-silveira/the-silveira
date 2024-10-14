@@ -14,12 +14,7 @@ I'm always open to new experiences and opportunities for growth, both personally
 
 
 <p align="center">
-  <!--![Silveira-Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true)-->
   <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" />
-</p>
-
-<p align="center">
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true)-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" />
 </p>
 
