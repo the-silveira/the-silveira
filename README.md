@@ -1,15 +1,14 @@
 <!-- # Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋 !-->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-## About Me
+<!--## About Me
 
 Hello there! I'm Guilherme Silveira, a passionate IT professional with a love for technology and a knack for problem-solving. Currently pursuing my studies in computer engineering, I thrive on the challenges and opportunities that the tech world offers.
 
 In my free time, I'm a bit of a swiss knife. I like to do a bit of everything. I enjoy exploring a variety of hobbies and interests that enrich my life beyond the confines of work and study. You might find me immersed in the latest technology trends, tinkering with new gadgets, playing guitar or knitting beside a fireplace. I'm also an avid outdoor enthusiast, often venturing into the great outdoors for hiking adventures or seeking solace in the tranquility of nature.
 
 I'm always open to new experiences and opportunities for growth, both personally and professionally. Let's connect and embark on this journey together!
-
-
+-->
 ## Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=onedark)
