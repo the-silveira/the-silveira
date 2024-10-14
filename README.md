@@ -12,7 +12,7 @@ I'm always open to new experiences and opportunities for growth, both personally
 ## Stats
 
 
-![Silveira-Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true)![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Silveira-Guilherme&theme=onedark)
+![Silveira-Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=darcula&hide_border=true)
 
 
 ## Projects
