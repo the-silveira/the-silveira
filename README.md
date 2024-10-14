@@ -9,11 +9,7 @@ In my free time, I'm a bit of a swiss knife. I like to do a bit of everything. I
 
 I'm always open to new experiences and opportunities for growth, both personally and professionally. Let's connect and embark on this journey together!
 -->
-## Stats
 
-
-
-## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats"   height="200"/>
