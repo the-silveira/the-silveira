@@ -2,13 +2,19 @@
 
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%"/>
+  <!-- Full width GitHub profile widget -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 49%; " />
+  <!-- Two stats widgets side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 49%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 49%; vertical-align: middle;" />
 </p>
-  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx"/>
+
+<!-- Skills widget centered -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx" />
 </p>
+
 
 <!--## About Me
 
