@@ -1,4 +1,5 @@
-# Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋
+<!-- # Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋 !-->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ## About Me
 
