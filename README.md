@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%"/>
 </p>
 
 
