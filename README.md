@@ -6,8 +6,8 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" />
 
   <!-- Two stats widgets side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 49%; vertical-align: middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 49%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 50%; vertical-align: middle;" />
 </p>
 
 <!-- Skills widget centered -->
