@@ -3,11 +3,11 @@
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%"/>
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 49%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 49%; " />
+</p>
+  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx"/>
 </p>
 
 <!--## About Me
@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
 
 
 ## Skills
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx)](https://github.com/Jurredr/github-widgetbox)
+
 
 
 
