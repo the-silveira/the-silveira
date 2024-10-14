@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true" alt="Silveira-Guilherme's GitHub stats" style="width: 49%; height=170;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" style="width: 49%; height=170;" />
 </p>
 
 <!--## About Me
