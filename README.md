@@ -28,7 +28,7 @@ I'm always open to new experiences and opportunities for growth, both personally
 
 
 
-## Projects
+<!--## Projects
 
 Here are some of the projects I've worked on:
 
@@ -50,9 +50,10 @@ Here are some of the projects I've worked on:
 
 <!-- - LinkedIn: [Your LinkedIn Profile](Link)
 - Twitter: [Your Twitter Profile](Link)
--->
+
 
 - Email: [guilhermesilveria2004@gmail.com](mailto:guilhermesilveira2004@gmail.com)
 - Instagram: [@the_silveira](https://www.instagram.com/the_silveira/)
 
 Thanks for visiting my profile! 😊
+-->
