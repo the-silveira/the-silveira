@@ -11,7 +11,8 @@ I'm always open to new experiences and opportunities for growth, both personally
 -->
 ## Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=onedark)![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Silveira-Guilherme&theme=onedark)
+
+![Silveira-Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true)![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Silveira-Guilherme&theme=onedark)
 
 
 ## Projects
@@ -27,7 +28,7 @@ Here are some of the projects I've worked on:
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx)](https://github.com/Jurredr/github-widgetbox)
 
 
-![Silveira-Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula)
+
 
 
 
