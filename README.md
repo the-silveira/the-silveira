@@ -4,7 +4,8 @@
 <p align="center">
   <!-- Full width GitHub profile widget -->
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" />
-
+</p>
+<p align="center">
   <!-- Two stats widgets side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true&cache_seconds=1" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
 
