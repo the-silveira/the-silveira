@@ -1,61 +1,68 @@
-<!-- # Hello!, Olá!, Hallo!, Hola!, Ciao!, Bonjour!, Hej!, こんにちは! 👋 !-->
-
-
 <p align="center">
   <!-- Full width GitHub profile widget -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" alt="GitHub Widget Profile"/>
 </p>
+
+---
+
+<p align="center">
+  <!-- Introduction -->
+  <h2 align="center">Hi there, I'm Guilherme Silveira! 👋</h2>
+</p>
+
+<p align="center">
+  Passionate about <strong>software development</strong>, open-source contributions, and continuously learning new technologies. 
+  Welcome to my GitHub profile! 🚀
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <!-- Two stats widgets side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true&cache_seconds=1" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true&cache_seconds=1" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Langs" height="200" style="width: 49%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Languages" height="200" style="width: 49%; vertical-align: middle;" />
 </p>
 
-<!-- Skills widget centered -->
+---
+
+<h3 align="center">🛠️ Skills</h3>
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx" alt="Skills Widget" />
 </p>
 
+---
 
-<!--## About Me
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
-Hello there! I'm Guilherme Silveira, a passionate IT professional with a love for technology and a knack for problem-solving. Currently pursuing my studies in computer engineering, I thrive on the challenges and opportunities that the tech world offers.
+---
 
-In my free time, I'm a bit of a swiss knife. I like to do a bit of everything. I enjoy exploring a variety of hobbies and interests that enrich my life beyond the confines of work and study. You might find me immersed in the latest technology trends, tinkering with new gadgets, playing guitar or knitting beside a fireplace. I'm also an avid outdoor enthusiast, often venturing into the great outdoors for hiking adventures or seeking solace in the tranquility of nature.
+<h3 align="center">📂 Projects</h3>
+<ul>
+  <li><a href="https://github.com/Silveira-Guilherme/your-project-name"><strong>Project Name</strong></a> - Brief description of the project.</li>
+  <li><a href="https://github.com/Silveira-Guilherme/another-project-name"><strong>Another Project</strong></a> - Brief description of the project.</li>
+</ul>
 
-I'm always open to new experiences and opportunities for growth, both personally and professionally. Let's connect and embark on this journey together!
--->
+---
 
+<h3 align="center">✨ Fun Facts</h3>
+<ul>
+  <li>I love solving algorithm challenges and learning about emerging technologies.</li>
+  <li>In my free time, you can find me gaming, reading tech blogs, or exploring new frameworks!</li>
+</ul>
 
+---
 
-
-<!--## Projects
-
-Here are some of the projects I've worked on:
-
-1. The ISEP Formula Student Team Website - The Website for the ISEP Formula Student Team powered by Angular Framework
-2. Doodo - A calendar based task manegement app powered by Flutter.
-3. Dynado - A construction project manegement app powered by Flutter.
-
-
-## Skills
-
-
-
-
-
-
-
-
-## Get in Touch
-
-<!-- - LinkedIn: [Your LinkedIn Profile](Link)
-- Twitter: [Your Twitter Profile](Link)
-
-
-- Email: [guilhermesilveria2004@gmail.com](mailto:guilhermesilveira2004@gmail.com)
-- Instagram: [@the_silveira](https://www.instagram.com/the_silveira/)
-
-Thanks for visiting my profile! 😊
--->
+<p align="center">Thank you for visiting my profile! 😄 Feel free to explore and connect!</p>
