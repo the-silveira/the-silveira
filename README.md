@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Full width GitHub profile widget -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Silveira-Guilherme&theme=carbon&data=followers,repositories,stars,commits" width="100%" alt="GitHub Widget Profile"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=the-silveira&theme=carbon&data=followers,repositories,stars,commits" width="100%" alt="GitHub Widget Profile"/>
 </p>
 
 ---
