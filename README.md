@@ -20,9 +20,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <!-- Two stats widgets side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Silveira-Guilherme&show_icons=true&theme=darcula&hide_border=true&cache_seconds=1" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-silveira&show_icons=true&theme=darcula&hide_border=true&cache_seconds=1" alt="Silveira-Guilherme's GitHub stats" height="200" style="width: 50%; vertical-align: middle;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira-Guilherme&layout=compact&theme=darcula&hide_border=true" alt="Top Languages" height="200" style="width: 49%; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-silveira&layout=compact&theme=darcula&hide_border=true" alt="Top Languages" height="200" style="width: 49%; vertical-align: middle;" />
 </p>
 
 ---
