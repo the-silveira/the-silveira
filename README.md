@@ -29,7 +29,7 @@
 
 <h3 align="center">🛠️ Skills</h3>
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx" alt="Skills Widget" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?theme=carbon&languages=html,css,js,ts,php,c,cpp,csharp,dart,java,python,bash,xml,json,mysql,powershell,visualbasic,x86,arm&frameworks=flutter,angular,dotnetcore,dotnet&software=linux,windows,vscode&tools=git,npm,nodejs,apache,nginx" alt="Skills Widget" />
 </p>
 
 ---
