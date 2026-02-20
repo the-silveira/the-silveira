@@ -51,16 +51,17 @@
 
 <h3 align="center">📂 Projects</h3>
 <ul>
-  <li><a href="https://github.com/Silveira-Guilherme/your-project-name"><strong>Project Name</strong></a> - Brief description of the project.</li>
-  <li><a href="https://github.com/Silveira-Guilherme/another-project-name"><strong>Another Project</strong></a> - Brief description of the project.</li>
+  <li><a href="https://github.com/the-silveira/StitchCounter"><strong>StitchCounter</strong></a> - A simple, elegant crochet helper app for tracking stitches and rounds.</li>
+  <li><a href="https://github.com/the-silveira/RoomInventory"><strong>RoomInventory</strong></a> - Cross-Platform Flutter application for Managing Room Inventories</li>
+  <li><a href="https://github.com/the-silveira/WeiNote"><strong>Weinote</strong></a> - Gym Personal Performance Database</li>
 </ul>
 
 ---
 
 <h3 align="center">✨ Fun Facts</h3>
 <ul>
-  <li>I love solving algorithm challenges and learning about emerging technologies.</li>
   <li>In my free time, you can find me gaming, reading tech blogs, or exploring new frameworks!</li>
+  <li>Also love designing 3d models in CAD</li>
 </ul>
 
 ---
