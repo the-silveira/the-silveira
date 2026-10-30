@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Guilherme%20Silveira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Open%20Source%20%C2%B7%20Cross-Platform%20Apps&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="header"/>
+<div align="center">
+  <img src="https://ghmetric.vercel.app/api/profile?username=the-silveira&theme=github-dark&style=modern" width="100%" alt="GitHub dashboard"/>
+</div>
 
 <a href="https://github.com/the-silveira">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Building+cross-platform+apps+with+Flutter+%F0%9F%93%B1;Turning+ideas+into+shipped+software+%F0%9F%9A%80;Open-source+enthusiast+%F0%9F%92%99;Designing+3D+models+in+CAD+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
@@ -22,14 +23,6 @@ Passionate about **software development**, **open-source contributions** and **c
 - 📱 I build cross-platform apps, mostly with **Flutter**
 - 🎮 Gaming, reading tech blogs and exploring new frameworks in my free time
 - 🧊 I also love designing 3D models in CAD
-
----
-
-## 📊 My GitHub Dashboard
-
-<div align="center">
-  <img src="https://ghmetric.vercel.app/api/profile?username=the-silveira&theme=github-dark&style=modern" width="100%" alt="GitHub dashboard"/>
-</div>
 
 ---
 
