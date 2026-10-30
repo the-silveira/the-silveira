@@ -13,42 +13,99 @@
 <img src="https://img.shields.io/github/followers/the-silveira?style=for-the-badge&logo=github&color=2c5364" alt="followers"/>
 <img src="https://img.shields.io/github/stars/the-silveira?style=for-the-badge&logo=starship&logoColor=white&color=203a43" alt="stars"/>
 <img src="https://img.shields.io/github/commit-activity/y/the-silveira/the-silveira?style=for-the-badge&logo=git&logoColor=white&color=0f2027" alt="commits"/>
+<img src="https://img.shields.io/github/join-date/the-silveira?style=for-the-badge&logo=github&label=Joined&color=0e75b6" alt="joined"/>
+
+<br/><br/>
+
+<sub>🧭 <a href="#-about">About</a> · <a href="#%EF%B8%8F-tech-arsenal">Stack</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-analytics">Analytics</a> · <a href="#-lets-connect">Connect</a></sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ TERMINAL ═══════════════════════ -->
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-## 💻 `~/guilherme $ cat about.md`
+## 💻 `~/guilherme $ cat about.md` <a name="-about"></a>
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```js
 const guilherme = {
-  username:   "the-silveira",
-  role:       "Software Developer",
-  mission:    "Build useful things, ship them, learn, repeat.",
-  focus:      ["Cross-platform apps", "Clean code", "Open source"],
-  buildingWith: ["Flutter", "Dart", "Angular", "C#/.NET", "Python"],
-  offline:    ["Gaming 🎮", "Tech blogs 📚", "3D modelling in CAD 🧊"],
-  lookingFor: "Good ideas, good people and good PRs",
-  motto:      "Ship it. Learn from it. Make it better.",
+  username:  "the-silveira",
+  role:      "Software Developer",
+  mission:   "Build useful things, ship them,
+              learn, repeat.",
+  focus:     ["Cross-platform apps",
+              "Clean code",
+              "Open source"],
+  stack:     ["Flutter", "Dart", "Angular",
+              "C#/.NET", "Python"],
+  offline:   ["Gaming 🎮", "Tech blogs 📚",
+              "3D modelling in CAD 🧊"],
+  lookingFor: "Good ideas, good people,
+               good PRs",
+  motto:     "Ship it. Learn from it.
+              Make it better.",
 };
 ```
 
-<br/>
+</td>
+<td width="45%" valign="top" align="center">
 
-<!-- ═══════════════════════ NOW ═══════════════════════ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-silveira&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages donut"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 ## 🎯 What I'm Up To
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">🔭<br/><b>Currently exploring</b><br/><sub>New frameworks & tools</sub></td>
-    <td align="center" width="25%">🌱<br/><b>Currently improving</b><br/><sub>Flutter apps & architecture</sub></td>
+    <td align="center" width="25%">🔭<br/><b>Exploring</b><br/><sub>New frameworks & tools</sub></td>
+    <td align="center" width="25%">🌱<br/><b>Improving</b><br/><sub>Flutter apps & architecture</sub></td>
     <td align="center" width="25%">🤝<br/><b>Open to</b><br/><sub>Open-source collabs</sub></td>
     <td align="center" width="25%">⚡<br/><b>Ask me about</b><br/><sub>Flutter, Dart, .NET, Linux</sub></td>
   </tr>
 </table>
+
+<br/>
+
+## 🧠 My Dev Universe
+
+```mermaid
+mindmap
+  root((Guilherme))
+    Mobile & Cross-platform
+      Flutter
+      Dart
+    Web
+      Angular
+      TypeScript
+      HTML / CSS
+      PHP
+    Backend & Systems
+      C# / .NET
+      Python
+      Java
+      C / C++
+      Node.js
+    Ops & Tools
+      Linux
+      Git
+      Bash / PowerShell
+      Apache / Nginx
+    Beyond code
+      3D / CAD
+      Gaming
+      Tech blogs
+```
 
 <br/>
 
@@ -120,7 +177,7 @@ const guilherme = {
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics <a name="-github-analytics"></a>
 
 <div align="center">
 
@@ -137,6 +194,16 @@ const guilherme = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-silveira&theme=tokyo-night&hide_border=true&area=true&custom_title=Guilherme%27s%20Contribution%20Graph" width="100%" alt="Activity graph"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ 3D ═══════════════════════ -->
+
+## 🏙️ My Contributions in 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/the-silveira/the-silveira/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
 <br/>
@@ -170,6 +237,25 @@ const guilherme = {
 </table>
 </div>
 
+<details>
+<summary><b>🥚 Dev humour (click at your own risk)</b></summary>
+<br/>
+
+```text
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs. 🐛
+
+Q: How many programmers does it take to change a light bulb?
+A: None. That's a hardware problem.
+
+$ git commit -m "fix"
+$ git commit -m "fix again"
+$ git commit -m "final fix"
+$ git commit -m "final fix (really)"
+```
+
+</details>
+
 <br/>
 
 <!-- ═══════════════════════ QUOTE ═══════════════════════ -->
@@ -182,7 +268,7 @@ const guilherme = {
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect <a name="-lets-connect"></a>
 
 <div align="center">
 
